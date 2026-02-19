@@ -2,7 +2,7 @@ console.log("Stockbit Token Syncer: Background script starting...");
 
 // Configuration - Ganti domain ini dengan domain aplikasi Anda
 // const APP_API_URL = "http://localhost:3000/api/update-token"; // Dev
-const APP_API_URL = "https://69967d601d1b885ee8a68f3d--mellifluous-torrone-eacb32.netlify.app/api/update-token"; // Prod
+const APP_API_URL = "https://adimology-auf.netlify.app/api/update-token"; // Prod
 
 console.log("Target API URL:", APP_API_URL);
 
