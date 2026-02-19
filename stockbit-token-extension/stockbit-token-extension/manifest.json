@@ -8,7 +8,7 @@
   ],
   "host_permissions": [
     "https://*.stockbit.com/*",
-    "https://69967d601d1b885ee8a68f3d--mellifluous-torrone-eacb32.netlify.app/*"
+    "https://adimology-auf.netlify.app/*"
   ],
   "background": {
     "service_worker": "background.js"
